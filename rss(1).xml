@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Diana Retouch — новости и обновления</title>
+    <link>https://retouchdianaa.pages.dev/</link>
+    <description>Обновления сайта Diana Retouch: профессиональная ретушь фотографий для русскоязычных и международных клиентов.</description>
+    <language>ru</language>
+    <copyright>Diana Retouch</copyright>
+    <ttl>1440</ttl>
+    <atom:link href="https://retouchdianaa.pages.dev/rss.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Сайт Diana Retouch запущен</title>
+      <link>https://retouchdianaa.pages.dev/</link>
+      <guid isPermaLink="true">https://retouchdianaa.pages.dev/</guid>
+      <description>Добро пожаловать на сайт Diana Retouch. Здесь представлены услуги профессиональной ретуши фотографий, коррекции кожи, цветокоррекции и авторской обработки для клиентов из России и других стран.</description>
+      <pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
+      <dc:creator>Diana Retouch</dc:creator>
+    </item>
+    <item>
+      <title>Обновление сайта и портфолио</title>
+      <link>https://retouchdianaa.pages.dev/</link>
+      <guid isPermaLink="false">diana-retouch-site-update-2026-09</guid>
+      <description>Обновления дизайна, портфолио и пользовательского опыта сайта Diana Retouch.</description>
+      <pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
+      <dc:creator>Diana Retouch</dc:creator>
+    </item>
+  </channel>
+</rss>
